@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eecec17b-4413-43ef-b5ca-16da946e76c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primefactors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PrimeFactorsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fV58eAprPTA8SUO8JVRnKmxlLj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PrimeFactorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="primefactors" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrimeFactorsTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="primefactors" />
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrimeFactorsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eecec17b-4413-43ef-b5ca-16da946e76c4" name="Default Changelist" comment="" />
+      <created>1596290260833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596290260833</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596290493108">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="0" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1596290493108" />
+    <state width="709" height="209" key="GridCell.Tab.0.bottom" timestamp="1596293938709">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="709" height="209" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1596293938709" />
+    <state width="709" height="209" key="GridCell.Tab.0.center" timestamp="1596293938709">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="709" height="209" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1596293938709" />
+    <state width="709" height="209" key="GridCell.Tab.0.left" timestamp="1596293938708">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="709" height="209" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1596293938708" />
+    <state width="709" height="209" key="GridCell.Tab.0.right" timestamp="1596293938709">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="709" height="209" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1596293938709" />
+    <state x="0" y="23" width="690" height="814" key="SettingsEditor" timestamp="1596290956875">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="0" y="23" width="690" height="814" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1596290956875" />
+    <state x="44" y="86" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596291341326">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="44" y="86" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.814@0.23.1440.814" timestamp="1596291341326" />
+    <state x="0" y="134" width="589" height="592" key="new project wizard" timestamp="1596293915851">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="0" y="134" width="589" height="592" key="new project wizard/0.23.1440.814@0.23.1440.814" timestamp="1596293915851" />
+  </component>
+</project>
